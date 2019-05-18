@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master
+=======
+hot——fix 分支改了
+>>>>>>> hot_fix
